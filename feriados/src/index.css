@@ -1,0 +1,48 @@
+/* Estilos.css */
+body {
+  
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.app-table {
+  border-radius: 8px;
+  opacity: 0.7;
+  font-size: 16px;
+  border-collapse: collapse;
+}
+
+.search-bar {
+  width: 100%;
+  opacity: 0.4;
+  padding: 8px;
+}
+
+.app-navbar {
+  background-color: #1A4EA6;
+  opacity: 0.8;
+  font-size: 16px;
+  color: white;
+  padding: 16px;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: space-evenly;
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.table-header {
+  background-color: #1A4EA6;
+  color: white;
+  font-weight: bold;
+}
+
+.table-row {
+  font-weight: bold;
+}

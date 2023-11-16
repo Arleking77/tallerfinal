@@ -1,0 +1,6 @@
+# Archivos que deben tener LF (Unix-style)
+* text eol=lf
+
+# Excepciones para archivos binarios que deben conservar los CRLF (Windows-style)
+*.png binary
+*.jpg binar
